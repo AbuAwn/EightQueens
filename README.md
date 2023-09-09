@@ -10,4 +10,5 @@ Solve the problem of placing eight chess queens on an 8×8 chessboard by graphin
 
 Each board represents a solution for 8 possible ways, rotated or flipped, to place the Queen.
 En total we have 96 possible solutions (12x8):
+
 ![Alt text](image.png)
