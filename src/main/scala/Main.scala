@@ -49,9 +49,9 @@ class ochoReinas extends PApplet {
   }
   override def draw() {
     noLoop()
-    val reina : PImage = loadImage("./reina.png")
-    val cuadradoNegro : PImage = loadImage("./cuadrado-negro.jpg")
-    val cuadradoBlanco : PImage = loadImage("./cuadrado-blanco.jpg")
+    val reina : PImage = loadImage(".\reina.png")
+    val cuadradoNegro : PImage = loadImage(".\cuadrado-negro.jpg")
+    val cuadradoBlanco : PImage = loadImage(".\cuadrado-blanco.jpg")
 
     reina.resize(bloqueX, bloqueY)
     cuadradoBlanco.resize(bloqueX, bloqueY)
