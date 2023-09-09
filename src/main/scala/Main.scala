@@ -79,6 +79,6 @@ class ochoReinas extends PApplet {
 }
 object Main {
   def main(args: Array[String]): Unit = {
-    PApplet.main("Eight_Queens")
+    PApplet.main("ochoReinas")
   }
 }
