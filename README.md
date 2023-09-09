@@ -8,5 +8,3 @@ Solve the problem of placing eight chess queens on an 8×8 chessboard by graphin
 
 Each solution represents 8 solutions (rotated or flipped), en total 96 possible solutions:
 ![Alt text](image.png)
-
-[def]: https://www.scala-lang.org/
