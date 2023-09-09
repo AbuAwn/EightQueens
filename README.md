@@ -3,8 +3,11 @@ Solve the problem of placing eight chess queens on an 8×8 chessboard by graphin
  
 1. You must install sbt and Scala, see [sbt](https://www.scala-sbt.org/) & [scala](https://www.scala-lang.org/)
 1. Download source files from github:
+
 `git clone https://github.com/AbuAwn/EightQueens.git`
+
 3. execute sbt then run
 
-Each solution represents 8 solutions (rotated or flipped), en total 96 possible solutions:
+Each board represents a solution for 8 possible ways, rotated or flipped, to place the Queen.
+En total we have 96 possible solutions (12x8):
 ![Alt text](image.png)
