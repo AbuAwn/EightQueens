@@ -11,7 +11,7 @@ Once the files are downloaded, you can run the program by executing the followin
 
 then
 
-`run
+`run`
 
 The program will print out a graph of all 96 possible solutions to the Eight Queens problem. Each board in the graph represents a fundamental solution, and each of the 8 possible ways to rotate or flip a fundamental solution is a variant of that solution.
 
