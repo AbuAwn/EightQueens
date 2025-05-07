@@ -22,6 +22,6 @@ Here is a breakdown of the terms used in the paragraph:
 * Flipped solution: A solution that is obtained by flipping the fundamental solution horizontally or vertically.
 * Variant: A rotated or flipped solution of a fundamental solution.
 
-Note: Eleven of twelve fundamental solutions generate 8 variants each (through rotation and reflection), but one of them is symmetric under 180° rotation and therefore only generates 4 variants. this gives a total of `11 x 8 + 1 x 4 = 92` distinct solutions.
+*Note*: Eleven of twelve fundamental solutions generate 8 variants each (through rotation and reflection), but one of them is symmetric under 180° rotation and therefore only generates 4 variants. this gives a total of `11 x 8 + 1 x 4 = 92` distinct solutions.
 
 ![Alt text](8Queens.png)
