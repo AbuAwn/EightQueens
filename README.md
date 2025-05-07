@@ -13,7 +13,7 @@ then
 
 `run`
 
-The program will print out a graph of all 96 possible solutions to the Eight Queens problem. Each board in the graph represents a fundamental solution, and each of the 8 possible ways to rotate or flip a fundamental solution is a variant of that solution.
+The program will print out a graph of all 92 possible solutions to the Eight Queens problem. Each board in the graph represents a fundamental solution, and each of the 8 possible ways to rotate or flip a fundamental solution is a variant of that solution.
 
 Here is a breakdown of the terms used in the paragraph:
 
@@ -21,5 +21,6 @@ Here is a breakdown of the terms used in the paragraph:
 * Rotated solution: A solution that is obtained by rotating the fundamental solution by 90, 180, or 270 degrees.
 * Flipped solution: A solution that is obtained by flipping the fundamental solution horizontally or vertically.
 * Variant: A rotated or flipped solution of a fundamental solution.
+Note: Eleven of twelve fundamental solutions generate 8 variants each (through rotation and reflection), but one of them is symmetric under 180° rotation and therefore only generates 4 variants. this gives a total of `11 x 8 + 1 x 4 = 92` distinct solutions.
 
 ![Alt text](8Queens.png)
